@@ -2,10 +2,45 @@
   "name": "senior-fullstack-superpowers",
   "version": "2.0.0",
   "description": "Production-grade fullstack development workflow combining Superpowers methodology (brainstorm → plan → TDD → subagent execution → review → verify) with Everything-Claude-Code breadth (agents, security, multi-language rules). For TS/React/Next.js, Node.js/Bun, Python/FastAPI/Django, and Go.",
-  "author": "hybrid (obra/superpowers + affaan-m/everything-claude-code)",
+  "author": {
+    "name": "Akmal Yunusov"
+  },
+  "homepage": "https://github.com/yunusovAkmal/senior-fullstack-superpowers",
+  "repository": "https://github.com/yunusovAkmal/senior-fullstack-superpowers",
   "license": "MIT",
-  "agents": "agents/",
-  "commands": "commands/",
-  "skills": "skills/",
-  "hooks": "hooks/"
+  "keywords": [
+    "claude-code",
+    "superpowers",
+    "fullstack",
+    "agents",
+    "skills",
+    "hooks",
+    "rules",
+    "tdd",
+    "code-review",
+    "security",
+    "subagent",
+    "workflow",
+    "typescript",
+    "react",
+    "nextjs",
+    "nodejs",
+    "bun",
+    "python",
+    "fastapi",
+    "django",
+    "golang",
+    "production"
+  ],
+  "skills": ["./skills/", "./commands/"],
+  "agents": [
+    "./agents/architect.md",
+    "./agents/database-reviewer.md",
+    "./agents/e2e-runner.md",
+    "./agents/ecc-code-reviewer.md",
+    "./agents/planner.md",
+    "./agents/security-reviewer.md",
+    "./agents/sp-code-reviewer.md",
+    "./agents/tdd-guide.md"
+  ]
 }
