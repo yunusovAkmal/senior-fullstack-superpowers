@@ -1,8 +1,8 @@
 {
   "name": "senior-fullstack-superpowers",
   "owner": {
-    "name": "Your Name",
-    "email": "your@email.com"
+    "name": "Akmal Yunusov",
+    "email": "ayunusov2301@gmail.com"
   },
   "metadata": {
     "description": "Production-grade fullstack workflow: Superpowers methodology + Everything-Claude-Code breadth"
@@ -14,7 +14,7 @@
       "description": "Production-grade fullstack development workflow combining Superpowers methodology (brainstorm → plan → TDD → subagent execution → review → verify) with Everything-Claude-Code breadth (agents, security, multi-language rules). For TS/React/Next.js, Node.js/Bun, Python/FastAPI/Django, and Go.",
       "version": "2.0.0",
       "author": {
-        "name": "Your Name"
+        "name": "Akmal Yunusov"
       },
       "license": "MIT",
       "keywords": [
