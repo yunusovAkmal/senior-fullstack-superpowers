@@ -1,0 +1,40 @@
+{
+  "name": "senior-fullstack-superpowers",
+  "owner": {
+    "name": "Your Name",
+    "email": "your@email.com"
+  },
+  "metadata": {
+    "description": "Production-grade fullstack workflow: Superpowers methodology + Everything-Claude-Code breadth"
+  },
+  "plugins": [
+    {
+      "name": "senior-fullstack-superpowers",
+      "source": "./",
+      "description": "Production-grade fullstack development workflow combining Superpowers methodology (brainstorm → plan → TDD → subagent execution → review → verify) with Everything-Claude-Code breadth (agents, security, multi-language rules). For TS/React/Next.js, Node.js/Bun, Python/FastAPI/Django, and Go.",
+      "version": "2.0.0",
+      "author": {
+        "name": "Your Name"
+      },
+      "license": "MIT",
+      "keywords": [
+        "superpowers",
+        "tdd",
+        "code-review",
+        "security",
+        "agents",
+        "skills",
+        "hooks",
+        "commands",
+        "typescript",
+        "react",
+        "nextjs",
+        "python",
+        "golang",
+        "fullstack",
+        "production"
+      ],
+      "category": "workflow"
+    }
+  ]
+}
